@@ -31,7 +31,7 @@ This project is aimed at developing a machine learning model to predict house pr
 ## Testing API Responses with Postman
 - You can use Postman to test the API responses after hosting the Flask application.
 
-**Note:**
+## Note:
 - To check my model or python notebook file you can check [House_price_prediction.ipynb](https://github.com/Skull-7/Machine-Learning-and-Flutter/blob/main/House_price_prediction.ipynb)
 - After creating my model i have stored it in pkl file using pickle module and the file name is [model.pkl](https://github.com/Skull-7/Machine-Learning-and-Flutter/blob/main/model.pkl)
 - To check the flask code click on [ml_and_flask_deploy.py](https://github.com/Skull-7/Machine-Learning-and-Flutter/blob/main/ml_and_flask_deploy.py)
